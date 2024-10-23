@@ -1,0 +1,25 @@
+les participants:
+Fatou FALL
+21030100021 
+fatou.fall4@univ-thies.sn
+
+Sophie FALL
+21030100074
+Sophie.fall@univ-thies.sn
+                           
+                           Exemple de test Application:
+                                                      
+ Le Serveur est démarré. En attente de client...
+LE Client est bien Connecté au Serveur !
+Voici la liste des Services disponibles :
+INSERER, RECHERCHER, LISTE_TOUS, LISTE_SERVICES
+Le Serveur Répond : Erreur : Mauvais format pour INSERER.
+Le Serveur Répond : Etudiant inséré avec succès.
+Le Serveur Répond : Etudiant inséré avec succès.
+Le Serveur Répond : Aucun étudiant trouvé avec ce nom et prénom.
+Le Serveur Répond : Etudiant{nom='fall', prenom='fatou', telephone='778228460', email='fatou.fall4@univ-thies.sn', url='www.fatou.com', dateNaissance='2001-06-20'}
+Le Serveur Répond : Etudiant{nom='fall', prenom='sophie', telephone='778204908', email='sophie.fall@univ-thies.sn', url='www.sophie.com', dateNaissance='2001-01-12'}
+Le Serveur Répond : Etudiant{nom='fall', prenom='sophie', telephone='778204908', email='sophie.fall@univ-thies.sn', url='www.sophie.com', dateNaissance='2001-01-12'}
+Etudiant{nom='fall', prenom='fatou', telephone='778228460', email='fatou.fall4@univ-thies.sn', url='www.fatou.com', dateNaissance='2001-06-20'}
+
+Le Serveur Répond : INSERER, RECHERCHER, LISTE_TOUS, LISTE_SERVICES
